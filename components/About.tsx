@@ -11,7 +11,7 @@ const About = () => {
         <div className='flex flex-col lgl:flex-row gap-16'>
             <div className='w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4'>
                 <p>I like creating fun stuff and animations live on internet,my interest started from my freshman year when my friend and I randomly decided to learn web development, and here I am </p>
-                <p>write some stuff<span className='text-textGreen '>write stg u wanna highlight</span></p>
+                
                 <p>Here are few technologies that I use:</p>
                 <ul className='max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6'>
                     <li className='flex items-center gap-2'>
