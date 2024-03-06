@@ -37,13 +37,13 @@ const About = () => {
                         <span className='text-textGreen'>
                             <AiFillThunderbolt/>
                         </span>
-                        Express
+                        Java
                     </li>
                     <li className='flex items-center gap-2'>
                         <span className='text-textGreen'>
                             <AiFillThunderbolt/>
                         </span>
-                        Node
+                        Python
                     </li>
                     <li className='flex items-center gap-2'>
                         <span className='text-textGreen'>
