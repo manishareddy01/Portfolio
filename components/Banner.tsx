@@ -10,10 +10,10 @@ const Banner = () => {
         </motion.h3>
         <motion.h1 initial={{y:10,opacity:0}} animate={{y:0, opacity:1}} transition={{duration:0.5, delay:0.7}}
         className='text-4xl lgl:text-6xl font-micro5 font-semibold flex flex-col'>
-            Manisha Addula. <span className='text-textDark mt-2 lgl:mt-4'>I build web applications.</span>
+            Manisha Addula. <span className='text-textDark mt-2 lgl:mt-4'>I build software applications.</span>
         </motion.h1>
         <motion.p initial={{y:10,opacity:0}} animate={{y:0, opacity:1}} transition={{duration:0.5, delay:0.8}}
-        className='text-base md:max-w-[650px] text-textDark font-medium'>{" "}I have 3+ years experience in web development and I love creating fun web applications with React and its components. {" "}
+        className='text-base md:max-w-[650px] text-textDark font-medium'>{" "}I have 2+ years experience in software development and I am specialized in backend development. {" "}
         <a href='https://www.linkedin.com/in/manishaaddula/' target='_blank'><span className='text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group'>Learn more
         <span className='absolute w-full h-[1px] bg-textGreen left-0 bottom-1 translate-x-[110%] group-hover:translate-x-0 transition-transform duration-500'></span></span></a></motion.p>
         <a href='https://github.com/manishareddy01?tab=repositories' target='_blank'>
